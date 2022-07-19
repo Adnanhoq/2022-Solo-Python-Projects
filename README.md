@@ -1,0 +1,1 @@
+# 2022-Solo-Python-Projects
